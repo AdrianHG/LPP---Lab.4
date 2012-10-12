@@ -1,0 +1,15 @@
+(in /home/adrian/Descargas/lpp - ADRIAN/samuglz-LPP-98a4122/Practica ruby)
+Loaded suite tc_calcularradio
+Started
+F.F
+Finished in 0.009543 seconds.
+
+  1) Failure:
+test_negativo(Testradio) [tc_calcularradio.rb:13]:
+<RuntimeError> exception expected but none was thrown.
+
+  2) Failure:
+test_texto(Testradio) [tc_calcularradio.rb:17]:
+<RuntimeError> exception expected but none was thrown.
+
+3 tests, 3 assertions, 2 failures, 0 errors
